@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a full stack developer with a passion for buil
 - **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Figma, Docker 
 
 ### 📈 GitHub Stats
-![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshrai03&show_icons=true&theme=radical)
+![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=puuq&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 - 📧 Email: [santoshrai3.1415@gmail.com]
