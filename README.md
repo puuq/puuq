@@ -12,17 +12,17 @@ Welcome to my GitHub profile! I'm a full stack developer with a passion for buil
 
 ### 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript, TypeScript  
-- **Backend:** Node.js, Express, Prisma, REST APIs, GraphQL  
+- **Backend:** Node.js, Express, Python, Prisma, REST APIs  
 - **Database:** MongoDB, PostgreSQL, Firebase  
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Heroku, Docker, Postman
+- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Figma, Docker 
 
 ### 📈 GitHub Stats
 ![Santosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshrai03&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
-- 📧 Email: [your-email@example.com]
-- 🌐 Portfolio: [your-portfolio-link.com]
-- 💼 LinkedIn: [linkedin.com/in/yourusername]
+- 📧 Email: [santoshrai3.1415@gmail.com]
+- 🌐 Portfolio: [santosh-rai.com.np]
+- 💼 LinkedIn: [https://www.linkedin.com/in/santosh-rai-91338317a/]
 
 ---
 
