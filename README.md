@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a full stack developer with a passion for buil
 
 ### 📫 Let's Connect
 - 📧 Email: [santoshrai3.1415@gmail.com]
-- 🌐 Portfolio: [santosh-rai.com.np]
+- 🌐 Portfolio: [https://santosh-rai.com.np]
 - 💼 LinkedIn: [https://www.linkedin.com/in/santosh-rai-91338317a/]
 
 ---
